@@ -1,0 +1,48 @@
+header{
+    background-color: darkblue;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    display: flex;
+    padding: 20px;
+}
+.logo{
+    position: relative;
+    width: 120px;
+
+}
+body{
+    background-color: rgb(57, 57, 216);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+nav li{
+    color: bluevioletf;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: #07c;
+}
+a:hover{
+    text-decoration: underline;
+}
+h1{
+   color: steelblue;
+   font-style: oblique;
+   font-size: 90px;
+}
+footer{
+    background-color: darkblue;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    display: flex;
+    padding: 20px;
+}
