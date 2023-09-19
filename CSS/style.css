@@ -39,6 +39,7 @@ h1{
    font-size: 90px;
 }
 footer{
+    align-items: center;
     background-color: darkblue;
     border-radius: 20px;
     color: white;
